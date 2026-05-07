@@ -101,11 +101,3 @@ festival_ER/
   ├── festival - SQL.sql         # Schema, dati e query
   └── festival - ER.drawio       # Sorgente editabile del diagramma
 ```
-
----
-
-## 👤 Autore
-
-**Vito Bondanese**
-- GitHub: [@vitob99](https://github.com/vitob99)
-- LinkedIn: [vito-bondanese](https://www.linkedin.com/in/vito-bondanese-24b673360/)
