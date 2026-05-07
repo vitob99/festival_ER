@@ -10,6 +10,15 @@ Modellare e implementare un sistema di gestione completo per un festival musical
 
 ---
 
+## 📁 Struttura del repository
+
+```
+festival_ER/
+  ├── festival - SQL.sql         # Schema, dati e query
+  └── festival - ER.drawio       # Sorgente editabile del diagramma
+```
+
+
 ## 🗂️ Schema E-R
 <img width="1685" height="799" alt="image" src="https://github.com/user-attachments/assets/ec9dce8b-8911-4310-b8c9-ac5e0d5515c3" />
 
@@ -94,10 +103,4 @@ Il file esegue in sequenza: drop/create del database, creazione delle tabelle, i
 
 ---
 
-## 📁 Struttura del repository
 
-```
-festival_ER/
-  ├── festival - SQL.sql         # Schema, dati e query
-  └── festival - ER.drawio       # Sorgente editabile del diagramma
-```
